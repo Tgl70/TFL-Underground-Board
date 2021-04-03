@@ -1,11 +1,9 @@
 {
-  "journey": {
-    "departureStation": "",
-    "destinationStation": null
-  },
-  "refreshTime": 120,
-  "transportApi": {
+    "query": "https://api.tfl.gov.uk/stoppoint/940GZZLULVT/arrivals",
+    "platform": "Platform 5",
+    "displayWidth": 256,
+    "displayHeight": 64,
+    "refreshTime": 20,
     "appId": "",
     "apiKey": ""
-  }
 }
