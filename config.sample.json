@@ -1,0 +1,11 @@
+{
+  "journey": {
+    "departureStation": "",
+    "destinationStation": null
+  },
+  "refreshTime": 120,
+  "transportApi": {
+    "appId": "",
+    "apiKey": ""
+  }
+}
